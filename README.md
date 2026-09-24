@@ -5,7 +5,7 @@ I am an Information Systems student currently studying in Japan. I am passionate
 
 🚀 Current Major Project
 🏢 Business Management System
-I am currently developing a Python Flask-based Business Management System as a practical full-stack/backend project.
+I am currently developing a Python Flask-based Business Management System using an SQLite3 database as a practical full-stack/backend project.
 The system includes:
 
 🔐 User Authentication
